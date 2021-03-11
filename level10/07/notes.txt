@@ -1,0 +1,12 @@
+$key = '';
+extract($_GET);
+if ($key !== $password) {
+
+
+so the idea is $password is loaded from $_GET array
+
+but we can also load $key
+
+so password=123&key=123 succeeds
+
+

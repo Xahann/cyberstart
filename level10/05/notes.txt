@@ -1,0 +1,21 @@
+4 extra bytes before 0xed : 2
+7 extra bytes before 0xed: 3
+
+10 06 41 51 (32) === AQ
+
+12 21 05 31 13 22 10 (06) === !1"
+
+
+_DasVidanya
+
+
+Vidanya_Das
+
+DasVidanya
+
+
+Just opening with hexedit the ascii 4 bytes are _Das
+7 bytes are Vidanya
+
+
+Password: Vidanya_Das

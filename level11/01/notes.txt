@@ -1,0 +1,11 @@
+FF D8 FF E0 00 10 4A 46 49 46 00 01
+
+
+https://www.wikiwand.com/en/List_of_file_signatures
+
+With strings and hexedit we can see it is a jpeg file
+
+artwork-03 had metadata, so did that first
+
+
+printf "\AB" | cat - in.jpg > out.jpg

@@ -1,0 +1,4 @@
+echo "4163636f756e74204e756d6265723a2037323434303937333531" | xxd --revert --plain
+
+
+xxd -r -p is epic

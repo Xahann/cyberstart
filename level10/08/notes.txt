@@ -1,0 +1,17 @@
+Thursday, August 20 2015
+NXIS24@ul{}mzVKV
+localtime
+strcmp
+
+
+
+retep@desktop:~/ctf/cyberstart/level10/08$ date -s "2015-8-20 $(date +%H:%M:%S)"
+
+
+Then use string found in file, "NXIS24@ul{}mzVKV"
+
+
+OTHER NOTES:
+
+USING Ghidra, I was able to get the flag without all that!
+Could not figure it out in IDA

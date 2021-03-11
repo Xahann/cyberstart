@@ -1,0 +1,6 @@
+used ghidra again LIKE A BOSS
+
+
+official way with john i should check out tho
+
+http://www.cyberry.co.uk/resources/password-mutating-with-john-the-ripper/

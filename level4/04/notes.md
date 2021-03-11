@@ -1,0 +1,3 @@
+strings filename
+
+was exif

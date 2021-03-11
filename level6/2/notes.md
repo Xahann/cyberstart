@@ -1,0 +1,11 @@
+SQL Injection
+
+
+SELECT X FROM BLAH WHERE X="INJECT
+
+
+INJECT=";1=1
+
+
+
+USED: ') OR 1=1

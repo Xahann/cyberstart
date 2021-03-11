@@ -1,0 +1,10 @@
+Q5SFxdnzIC@585dd60460f8:/usr/share/man$ find . -type f | xargs grep -i matryoshka FAILS
+
+https://unix.stackexchange.com/questions/195571/how-to-search-the-whole-manual-pages-on-linux
+YOOO man man
+
+
+Q5SFxdnzIC@585dd60460f8:/usr/share/man$ man -wK matryoshka
+/usr/share/man/man1/agentj.1.gz
+Q5SFxdnzIC@585dd60460f8:/usr/share/man$ man agentj
+
