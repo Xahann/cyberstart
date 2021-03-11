@@ -1,0 +1,4 @@
+see my cool brute force script!
+
+
+turns out cryptonite -n;ls; was the key: a space breaks the logic

