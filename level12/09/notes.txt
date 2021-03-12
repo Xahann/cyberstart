@@ -1,0 +1,3 @@
+used python to get actual length of string.
+
+then changed the length of command char pointer to be that, boom no error

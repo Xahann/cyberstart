@@ -1,0 +1,32 @@
+```
+~/ctf/cyberstart/level12/08 [master|…1] $ nmap services.cyberprotection.agency -Pn -sV -p 19000-20000
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-03-11 20:40 EST
+Stats: 0:00:03 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 1.00% done
+Stats: 0:00:05 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 2.00% done; ETC: 20:44 (0:04:05 remaining)
+Nmap scan report for services.cyberprotection.agency (3.249.74.244)
+Host is up (0.13s latency).
+rDNS record for 3.249.74.244: ec2-3-249-74-244.eu-west-1.compute.amazonaws.com
+Not shown: 1000 filtered ports
+PORT      STATE  SERVICE VERSION
+19991/tcp closed unknown
+```
+
+19991 is a closed port
+
+
+A seperate NMAP scan reveals
+
+pyftpdlib server on port 2121
+
+
+need a USER and PASS to do anything interesting there however.
+
+
+ending here, not sure what to do
+
+
+picked it back up with a UDP nmap scan on that port, it's open on UDP
+
+connecting with nc -u and sending some data gives us the flag

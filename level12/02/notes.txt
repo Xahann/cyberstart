@@ -1,0 +1,16 @@
+tried a bunch of command injection LS variations, couldn't get it
+
+
+i bet it has to do with brute forcing the drink varieties!!!
+
+it didnt, turns out it was $(ls)
+
+
+shell.sh is shell
+
+ > cat ../robot-bank-job/.robot_sketches.txt
+
+        [machine@charlies-coffee.com]
+/billy/plans/coffee-machine: $
+Flag:
+BAVNMC3AXYF7

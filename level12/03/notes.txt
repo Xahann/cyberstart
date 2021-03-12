@@ -1,0 +1,5 @@
+original_v2 is the working program
+
+strings -n 12 > out_filter.txt
+
+it was not a word which threw me off

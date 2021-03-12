@@ -1,0 +1,6 @@
+EAX is the full 32-bit value
+AX is the lower 16-bits
+AL is the lower 8 bits
+AH is the bits 8 through 15 (zero-based)
+
+on line 13, change AF -> AL to succeed
