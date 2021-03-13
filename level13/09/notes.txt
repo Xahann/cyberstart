@@ -1,0 +1,5 @@
+Good news agent, another intercepted file for you to analyse that we think contains the access code to a safe the gang have on their boat - our undercover agent thinks he can get physical access to it, so we need the code as soon as possible.
+
+We've tried executing the file and it loads the encrypted access code into memory. That's as far as we've got, give it a try and see if you can decrypt the code.
+
+Tip: The decrypted code is the flag.
